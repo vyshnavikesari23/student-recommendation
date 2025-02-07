@@ -1,0 +1,37 @@
+{
+  "current_quiz": [
+    {
+      "user_id": 1,
+      "quiz_id": 201,
+      "topic": "Physics",
+      "questions": [
+        { "question_id": 1, "selected_option": 2, "correct_option": 2 },
+        { "question_id": 2, "selected_option": 1, "correct_option": 3 }
+      ],
+      "score": 80
+    }
+  ],
+  "historical_quiz": [
+    {
+      "user_id": 1,
+      "quiz_id": 200,
+      "topic": "Physics",
+      "score": 70,
+      "is_correct": 1
+    },
+    {
+      "user_id": 1,
+      "quiz_id": 199,
+      "topic": "Biology",
+      "score": 50,
+      "is_correct": 0
+    },
+    {
+      "user_id": 1,
+      "quiz_id": 198,
+      "topic": "Chemistry",
+      "score": 60,
+      "is_correct": 1
+    }
+  ]
+}
